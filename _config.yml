@@ -20,6 +20,9 @@ github_username: "errorcodecritical"
 #########################################################################################
 theme: "minima"
 
+disqus:
+  shortname: "errorcodecritical"
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
