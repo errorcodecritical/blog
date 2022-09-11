@@ -6,7 +6,7 @@ description: "A place where I share and talk about my projects."
 # All of these are optional and can be removed or commented out
 # email: "example@mail.com"
 # twitter_username: "twitteruser"
-github_username: "errorcodecritical"
+github: "errorcodecritical"
 # linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
@@ -20,7 +20,7 @@ github_username: "errorcodecritical"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+rss: none
 
 kramdown:
   syntax_highlighter_opts:
